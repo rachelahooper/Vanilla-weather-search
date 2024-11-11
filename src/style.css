@@ -91,6 +91,7 @@ main {
   width: 88px;
   height: 88px;
   margin: 0 auto;
+  display: block;
 }
 .weather-forecast-temperatures {
   text-align: center;
